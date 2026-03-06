@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=00ffcc,0575e6,00f260,38ef7d&height=280&section=header&text=DEEPFAKE%20FORENSICS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOTA%20Hybrid%20Transformer-CNN%20Pipeline&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=00ffcc,0575e6,00f260,38ef7d&height=230&section=header&text=DEEPFAKE%20FORENSICS&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOTA%20Hybrid%20Transformer-CNN%20Pipeline&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
